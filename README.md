@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shitanshuk32@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1N1zBtEECuysDNUpEiMGiQ-TKe0SoVc9t/view?usp=sharing" target="_blank">Download Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KoitWz8e-fQS5G8SnziJIFRtp62v3JBt/view?usp=sharing" target="_blank">Download Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
