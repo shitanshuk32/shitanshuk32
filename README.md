@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shitanshu Kumar</h1>
-<h3 align="center">A I'm a frontend and web3 Enthusiast.</h3>
+<h3 align="center">A frontend and web3 Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitanshuk32&label=Profile%20views&color=0e75b6&style=flat" alt="shitanshuk32" /> </p>
 
